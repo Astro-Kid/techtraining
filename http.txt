@@ -1,0 +1,6 @@
+Request-Response Model: HTTP operates on a simple request-response model, where a client sends a request to a server, and the server responds with the requested information.
+
+Methods: HTTP defines various methods like GET for retrieving resources, POST for submitting data, and others, each serving a specific purpose in web communication.
+
+HTTPS: The 'S' in HTTPS stands for 'Secure,' indicating an encrypted connection, ensuring data confidentiality and integrity during transmission.
+
