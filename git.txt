@@ -1,0 +1,7 @@
+Distributed Version Control: Git is a distributed version control system, allowing multiple users to work on a project simultaneously and independently.
+
+Commits: Each commit in Git represents a snapshot of the project at a specific point in time, enabling version history tracking.
+
+Branching and Merging: Git facilitates branching, enabling the creation of separate lines of development, and merging, combining changes from different branches.
+
+Collaboration: Git supports collaboration through features like pull requests, where contributors propose changes and seek approval before merging them into the main codebase.
