@@ -1,0 +1,7 @@
+Interconnected Network: The internet is a vast and intricate network of computers worldwide, connected through various technologies and communication protocols.
+
+Data Transmission: It enables the transmission of data through a combination of wired and wireless technologies, allowing seamless communication between devices.
+
+Protocols: Internet protocols, such as TCP/IP, serve as the foundation, ensuring standardized communication and data exchange across diverse systems.
+
+WWW (World Wide Web): The WWW, a subset of the internet, comprises websites and web pages interconnected through hyperlinks, making information accessible with a browser.
